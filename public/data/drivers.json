@@ -1,0 +1,40 @@
+[
+   {
+     "id": 1,
+     "name": "Casey Scrivenor",
+     "registration": "PC21VXS",
+     "activities": [
+      { "date": "2021-02-01", "duration": 62, "type": "drive" },
+      { "date": "2021-02-01", "duration": 20, "type": "rest" },
+      { "date": "2021-02-01", "duration": 5, "type": "drive" },
+      { "date": "2021-02-01", "duration": 8, "type": "drive" },
+      { "date": "2021-02-01", "duration": 8, "type": "available" },
+      { "date": "2021-02-03", "duration": 65, "type": "drive" },
+      { "date": "2021-02-01", "duration": 8, "type": "available" },
+      { "date": "2021-02-06", "duration": 65, "type": "drive" }
+     ]
+   }, 
+   {
+     "id": 251256058,
+     "name": "Jonathon Wright",
+     "registration": "XYZ789",
+     "activities": [
+       { "date": "2021-02-01", "duration": 90, "type": "rest" },
+       { "date": "2021-02-07", "duration": 65, "type": "drive" },
+       { "date": "2021-02-01", "duration": 10, "type": "drive" },
+       { "date": "2021-02-03", "duration": 25, "type": "drive" }
+     ]
+   }, 
+   {
+     "id": 13450678,
+     "name": "Braxton Scotty",
+     "registration": "PN67MJR",
+     "activities": [
+       { "date": "2021-02-01", "duration": 90, "type": "drive" },
+       { "date": "2021-02-07", "duration": 10, "type": "rest" },
+       { "date": "2021-02-04", "duration": 10, "type": "available" },
+       { "date": "2021-02-05", "duration": 25, "type": "drive" }
+     ]
+   }
+ ]
+ 

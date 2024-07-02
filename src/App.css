@@ -1,0 +1,61 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  background-color: #282c34;
+}
+
+.header img {
+  height: 40px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  width: 200px;
+  padding: 1rem;
+  background-color: #f0f0f0;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu li {
+  margin-bottom: 1rem;
+}
+
+.driver-list {
+  flex-grow: 1;
+  padding: 1rem;
+}
+
+.driver-item {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.week-activities {
+  display: flex;
+}
+
+.day-box {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  margin-right: 5px;
+}
+
+.day-box.active {
+  background-color: green;
+}

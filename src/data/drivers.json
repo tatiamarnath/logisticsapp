@@ -1,0 +1,40 @@
+[
+   {
+       "id": 1,
+       "name": "John Doe",
+       "vehicle": {
+           "registration": "ABC123"
+       },
+       "activities": [
+           {
+               "type": "drive",
+               "duration": 60,
+               "date": "2021-02-01T00:00:00Z"
+           },
+           {
+               "type": "rest",
+               "duration": 120,
+               "date": "2021-02-02T00:00:00Z"
+           }
+       ]
+   },
+   {
+       "id": 2,
+       "name": "Jane Smith",
+       "vehicle": {
+           "registration": "XYZ789"
+       },
+       "activities": [
+           {
+               "type": "drive",
+               "duration": 30,
+               "date": "2021-02-03T00:00:00Z"
+           },
+           {
+               "type": "rest",
+               "duration": 90,
+               "date": "2021-02-04T00:00:00Z"
+           }
+       ]
+   }
+]
